@@ -14,9 +14,9 @@
 [![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/kontenlaris-studio/roast-agent-febri-01/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
 [![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/kontenlaris-studio/roast-agent-febri-01/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
 
-One entry for Roast Your Own Agent: my agent's confidence outruns its accuracy — it corrected the spelling of my own name, then signed the email with the wrong one.
+One entry for Roast Your Own Agent: my agent called the tool twelve times, got the answer — then confidently delivered the one result the tool never returned.
 
-> My agent is so confident it once corrected my spelling of my own name, then signed the email with the wrong name. (113 characters)
+> I called the tool 12 times, got the answer, then confidently delivered the one result the tool never returned. (110 characters)
 
 ## Run it
 
